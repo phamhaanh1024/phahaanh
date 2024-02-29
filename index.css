@@ -21,6 +21,7 @@ html {
 
 body {
     color: var(--text-color);
+    cursor: url(./img/cursor.png), auto;
 }
 
 
